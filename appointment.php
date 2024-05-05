@@ -152,11 +152,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <label for="doctor">Select Doctor</label>
                 <select name="doctor" id="doctor" class="form-control">
                     <option value="" selected="selected">Select the Doctor</option>
-                    <option value="Dr. S.M.D Silva">Dr. S.M.D Silva</option>
-                    <option value="Dr. Dr. R.P.S Kumara">Dr. R.P.S Kumara</option>
+                    <option value="Dr. Y Bandaragodage">Dr. Y Bandaragodage</option>
+                    <option value="Dr. P Jayasinghe">Dr. P Jayasinghe</option>
                     <option value="Dr. L.M Hafeez">Dr. L.M Hafeez</option>
-                    <option value="Dr. Nimal Rajapaksha">Dr. Nimal Rajapaksha</option>
-                    <option value="Dr. P.I Chandrasiri">Dr. Nimal Rajapaksha</option>
+                    <option value="Dr. Swetha Rajendran">Dr. Swetha Rajendran</option>
+                    <option value="Dr. K Weheragoda">Dr. K Weheragoda</option>
                     <option value="Dr. Pasindu Lakshan">Dr. Pasindu Lakshan</option>
                     <option value="Dr. Thilina Heashan">Dr. Thilina Heashan</option>
                     <option value="Dr. Kavindu Kaushal">Dr. Kavindu Kaushal</option>
