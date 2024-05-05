@@ -109,7 +109,7 @@
           <h1>Welcome to<br>MT Hospital</h1>
           <h3>The Largest health care center</h3>
           <a href="#" class="btn btn-primary banbtn">Join with Us</a>
-          <a href="#" class="btn btn-primary banbtn">Make Appointment</a>
+          <a href="appointment.php" class="btn btn-primary banbtn">Make Appointment</a>
         </div>
       </div>
       <div class="col-sm-6">
